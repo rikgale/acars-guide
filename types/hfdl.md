@@ -84,4 +84,5 @@ stations = (
 - [Bare metal HFDL installation guide](https://github.com/rikgale/hfdl_install) (rikgale)
 - [Docker HFDL installation guide](https://github.com/sdr-enthusiasts/docker-dumphfdl) (SDR-Enthusiasts)
 - [Frequency selector for single SDR setups](https://github.com/wiedehopf/hfdlscript) (wiedehopf)
+- [dumbhfdl.py](https://github.com/kuupaork/airframes_adjacent/tree/main/dumphfdl) frequency selecter based on the airframes.io API (kuupaork)
 - [Band switcher for multi SDR setups - work in progress](https://github.com/rikgale/hfdl_band_Switch) (rikgale)
